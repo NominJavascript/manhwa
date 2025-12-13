@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "title": "Atomic Habits",
+    "image": "https://covers.openlibrary.org/b/isbn/0735211299-L.jpg",
+    "description": "A practical guide to building good habits and breaking bad ones through small, incremental changes."
+  },
+  {
+    "id": 2,
+    "title": "Clean Code",
+    "image": "https://covers.openlibrary.org/b/isbn/9780132350884-L.jpg",
+    "description": "A handbook of agile software craftsmanship that teaches how to write clean, maintainable code."
+  },
+  {
+    "id": 3,
+    "title": "The Pragmatic Programmer",
+    "image": "https://covers.openlibrary.org/b/isbn/9780201616224-L.jpg",
+    "description": "A classic software engineering guide promoting practical approaches to becoming a better developer."
+  },
+  {
+    "id": 4,
+    "title": "Deep Work",
+    "image": "https://covers.openlibrary.org/b/isbn/9781455586691-L.jpg",
+    "description": "Explores the importance of focused work and strategies to eliminate distractions and increase productivity."
+  },
+  {
+    "id": 5,
+    "title": "The Design of Everyday Things",
+    "image": "https://covers.openlibrary.org/b/isbn/9780465050659-L.jpg",
+    "description": "A foundational UX book explaining how design impacts user behavior and product usability."
+  },
+  {
+    "id": 6,
+    "title": "The Lean Startup",
+    "image": "https://covers.openlibrary.org/b/isbn/9780307887894-L.jpg",
+    "description": "A guide for building startups using validated learning, rapid experimentation, and continuous improvement."
+  },
+  {
+    "id": 7,
+    "title": "Thinking Fast and Slow",
+    "image": "https://covers.openlibrary.org/b/isbn/9780374533557-L.jpg",
+    "description": "A look into two systems of human thinking and how they shape decisions and judgments."
+  },
+  {
+    "id": 8,
+    "title": "Sapiens: A Brief History of Humankind",
+    "image": "https://covers.openlibrary.org/b/isbn/9780062316097-L.jpg",
+    "description": "A sweeping narrative exploring the evolution, history, and impact of Homo sapiens."
+  },
+  {
+    "id": 9,
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "image": "https://covers.openlibrary.org/b/isbn/9780062457714-L.jpg",
+    "description": "A counterintuitive guide to living a meaningful life by embracing limitations and focusing on what matters."
+  },
+  {
+    "id": 10,
+    "title": "The Art of War",
+    "image": "https://covers.openlibrary.org/b/isbn/9781590302255-L.jpg",
+    "description": "An ancient Chinese military treatise offering strategic wisdom applicable even today."
+  },
+  {
+    "id": 11,
+    "title": "Eloquent JavaScript",
+    "image": "https://covers.openlibrary.org/b/isbn/9781593279509-L.jpg",
+    "description": "A modern introduction to JavaScript, covering programming fundamentals and practical examples."
+  },
+  {
+    "id": 12,
+    "title": "Cracking the Coding Interview",
+    "image": "https://covers.openlibrary.org/b/isbn/0984782850-L.jpg",
+    "description": "A technical interview preparation handbook with coding problems and solutions for software engineers."
+  },
+  {
+    "id": 13,
+    "title": "The Alchemist",
+    "image": "https://covers.openlibrary.org/b/isbn/9780061122415-L.jpg",
+    "description": "A philosophical novel about following one's dreams through a journey of self-discovery."
+  },
+  {
+    "id": 14,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "image": "https://covers.openlibrary.org/b/isbn/9780590353427-L.jpg",
+    "description": "The first book of the beloved fantasy series following young wizard Harry Potter."
+  },
+  {
+    "id": 15,
+    "title": "1984",
+    "image": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg",
+    "description": "A dystopian classic depicting a totalitarian regime built on surveillance and thought control."
+  },
+  {
+    "id": 16,
+    "title": "To Kill a Mockingbird",
+    "image": "https://covers.openlibrary.org/b/isbn/9780061120084-L.jpg",
+    "description": "A powerful story about racial injustice and moral growth in the American South."
+  },
+  {
+    "id": 17,
+    "title": "The Great Gatsby",
+    "image": "https://covers.openlibrary.org/b/isbn/9780743273565-L.jpg",
+    "description": "A tale of wealth, love, and illusion set in the extravagant Jazz Age."
+  },
+  {
+    "id": 18,
+    "title": "The Hobbit",
+    "image": "https://covers.openlibrary.org/b/isbn/9780618968633-L.jpg",
+    "description": "A fantasy adventure following Bilbo Baggins on a quest to reclaim treasure from a dragon."
+  },
+  {
+    "id": 19,
+    "title": "The Catcher in the Rye",
+    "image": "https://covers.openlibrary.org/b/isbn/9780316769488-L.jpg",
+    "description": "A coming-of-age novel exploring teenage angst, identity, and rebellion."
+  }
+]
